@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaganareddy756
-- 👀 I’m interested in AutoCAD, Java , HTML
+- 👀 I’m interested in AutoCAD, WebDevelopment
 - 🌱 I’m currently learning Computer Science (AI & ML)
 - 💞️ I’m looking to collaborate on Internships
 - 📫 How to reach me gaganareddy756@gmail.com
